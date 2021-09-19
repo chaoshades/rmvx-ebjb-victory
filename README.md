@@ -29,7 +29,7 @@ The dependencies must be inserted, in the below order, before the script of this
 
 ### Instruction for usage
 
-All of the configuration avaiable is within the `VICTORY_CONFIG` module.
+All of the configuration available is within the `VICTORY_CONFIG` module.
 
 ## Contributing
 
